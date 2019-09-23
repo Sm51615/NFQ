@@ -1,0 +1,127 @@
+[   
+    {
+        "specialist": "Immunologists",
+        "clientNumber": 5,
+        "serviced": 0
+    },
+    {
+        "specialist": "Immunologists",
+        "clientNumber": 2,
+        "serviced": 0
+    },
+    {
+        "specialist": "Cardiologists",
+        "clientNumber": 4,
+        "serviced": 0
+    },
+    {
+        "specialist": "Cardiologists",
+        "clientNumber": 3,
+        "serviced": 0
+    },
+    {
+        "specialist": "Cardiologists",
+        "clientNumber": 25,
+        "serviced": 0
+    },
+    {
+        "specialist": "Cardiologists",
+        "clientNumber": 26,
+        "serviced": 0
+    },
+    {
+        "specialist": "Cardiologists",
+        "clientNumber": 27,
+        "serviced": 0
+    },
+    {
+        "specialist": "Cardiologists",
+        "clientNumber": 28,
+        "serviced": 0
+    },
+    {
+        "specialist": "Cardiologists",
+        "clientNumber": 29,
+        "serviced": 0
+    },
+    {
+        "specialist": "Cardiologists",
+        "clientNumber": 30,
+        "serviced": 0
+    },
+    {
+        "specialist": "Colon and Rectal Surgeons",
+        "clientNumber": 6,
+        "serviced": 0
+    },
+    {
+        "specialist": "Colon and Rectal Surgeons",
+        "clientNumber": 7,
+        "serviced": 0
+    },
+    {
+        "specialist": "Colon and Rectal Surgeons",
+        "clientNumber": 9,
+        "serviced": 0
+    },
+    {
+        "specialist": "Dermatologists",
+        "clientNumber": 8,
+        "serviced": 0
+    },
+    {
+        "specialist": "Family Physicians",
+        "clientNumber": 12,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 11,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 14,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 16,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 35,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 36,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 37,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 38,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 39,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 40,
+        "serviced": 0
+    },
+    {
+        "specialist": "Gastroenterologists",
+        "clientNumber": 41,
+        "serviced": 0
+    }
+]
