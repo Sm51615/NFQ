@@ -47,11 +47,16 @@ function specialistServiceTimeStart(clientFile) {
 
 function gettingClientList() {
     event.preventDefault();
-      
-    let JSONClientListPath = 'http://127.0.0.1:5500/json/users.json';
+    let administrationHref = window.location.href;
     let serializedClientList;
     let serializedClientTime;
+    let JSONClientListPath;
 
+    JSONClientListPath = administrationHref.replace(
+        "html/administration.html", 'json/users.json'
+        );
+
+    
     fetch(JSONClientListPath)
         .then(function(response) {
             return response.json();
